@@ -1,0 +1,13 @@
+.Box {
+    height: 50px;
+    width: 50px;
+    border: 1px solid blue;
+}
+
+.Alive {
+    background-color: green;;
+}
+
+.BoxRow {
+    display: flex;
+}
